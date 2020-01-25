@@ -1,1 +1,5 @@
 # compress
+
+```
+brew install ffmpeg
+```
